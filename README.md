@@ -13,7 +13,7 @@ Regarding the web version, the login feature using [Firebase](https://firebase.g
     <p align="center"><img src="https://media.giphy.com/media/arzycNFEntjS5wPvXf/giphy.gif"></p>
   </li>
   <li>Forgot password
-    <p align="center"><img src="https://media.giphy.com/media/arzycNFEntjS5wPvXf/giphy.gif"></p>
+    <p align="center"><img src="https://media.giphy.com/media/UpOCHqciPKX9oo3toV/giphy.gif"></p>
   </li>
   <li>Sign in
     <p align="center"><img src="https://media.giphy.com/media/fMTnUAO3k9tLnpYiCI/giphy.gif"></p>
