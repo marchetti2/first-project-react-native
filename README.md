@@ -1,3 +1,5 @@
+<h2>About</h2>
+
 This is the mobile version of [My first own project](https://github.com/marchetti2/FirstOwnProjectWithReact). There are still some resources to implement.
 Regarding the web version, the login feature using [Firebase](https://firebase.google.com) was added. Functional components and React hooks were used.
 
