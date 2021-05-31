@@ -66,7 +66,7 @@ To see a preview of this project [click here](https://snack.expo.io/@marchetti2/
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/marchetti2/firstOwnProjectMobileVersion.git && cd firstOwnProjectMobileVersion
+$ git clone https://github.com/marchetti2/first-project-react-native.git && cd first-project-react-native
 ```
 
 **Install the dependencies**
