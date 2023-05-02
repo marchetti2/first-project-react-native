@@ -96,5 +96,3 @@ $ yarn android
 <h2 id="license">License</h2>
 
 This project was developed by Mário Luiz.
-
-
